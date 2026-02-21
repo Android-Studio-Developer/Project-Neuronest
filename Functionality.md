@@ -1,5 +1,3 @@
-Got it — one short paragraph for every code name (U.S. English), so you can paste each one onto a slide.
-
 BLEFocusManager
 BLEFocusManager is the main Bluetooth “sensor pipeline” manager. It scans for the ESP32 device, connects to it, discovers the correct BLE services/characteristics, subscribes to notifications, and updates the app with the newest sensor readings in real time.
 
