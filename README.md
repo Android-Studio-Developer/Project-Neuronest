@@ -18,9 +18,9 @@ Wearable hardware meets real-time intelligence.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/HashtagPro-MC/Neuronest?style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/HashtagPro-MC/Neuronest?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/HashtagPro-MC/Neuronest?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/HashtagPro-MC/Project-Neuronest?style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/HashtagPro-MC/Project-Neuronest?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/HashtagPro-MC/Project-Neuronest?style=for-the-badge">
 </p>
 
 ---
@@ -159,4 +159,4 @@ User Feedback (UI + Motor)
 ## iOS App
 
 ```bash
-git clone https://github.com/YOURUSERNAME/Neuronest
+git clone https://github.com/HashtagPro-MC/Project-Neuronest
